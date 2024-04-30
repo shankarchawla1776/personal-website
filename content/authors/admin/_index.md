@@ -69,5 +69,7 @@ highlight_name: true
 ---
 
 I am a high school sophomore in Phoenix, Arizona and attent Phoenix Country Day School. My interestes include neuromuscular biomechanics as well as neural and computational systems. I have explored these interests in numerous professional enviornments in academia, startups, and competitions. Please reach out if you want to see my CV or talk about anything!
+
 **Email**: shankarchawla9101112 [at] gmail [dot] com
+
 {style="text-align: justify;"}
