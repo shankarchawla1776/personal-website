@@ -14,28 +14,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student
+role: Student Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Phoenix Country Day School
-    url: https://www.stanford.edu/
+    url: https://www.pcds.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Neuromuscular Biomechanics
+  - Concept Organization 
   - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
     - course: High School Student
       institution: Phoenix Country Day School
-
+      
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,5 +68,5 @@ email: 'shankarchawla9101112 [at] gmail [dot] com'
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a high school sophomore in Phoenix, Arizona and attent Phoenix Country Day School. My interestes include neuromuscular biomechanics as well as neural and computational systems. I have explored these interests in numerous professional enviornments in academia, startups, and competitions. 
 {style="text-align: justify;"}
