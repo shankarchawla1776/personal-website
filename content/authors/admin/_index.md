@@ -46,14 +46,16 @@ social:
     icon_pack: fab
     link: https://twitter.com/ShankarCha19793
     label: Follow me on Twitter
-    display:
-      header: true
+    # display:
+    #   header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/shankarchawla1776
+    label: Follow me on GitHub
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shankar-chawla-286a63278/
+    label: Connect with me on LinkedIn
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
