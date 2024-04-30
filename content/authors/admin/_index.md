@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Shankar Chawla
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Shankar
+last_name: Chawla
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Phoenix Country Day School
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
