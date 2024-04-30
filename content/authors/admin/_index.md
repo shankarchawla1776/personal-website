@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student Researcher
+# role: shankarchawla9101112 [at] gmail [dot] comshankarchawla
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -68,5 +68,6 @@ email: 'shankarchawla9101112 [at] gmail [dot] com'
 highlight_name: true
 ---
 
-I am a high school sophomore in Phoenix, Arizona and attent Phoenix Country Day School. My interestes include neuromuscular biomechanics as well as neural and computational systems. I have explored these interests in numerous professional enviornments in academia, startups, and competitions. 
+I am a high school sophomore in Phoenix, Arizona and attent Phoenix Country Day School. My interestes include neuromuscular biomechanics as well as neural and computational systems. I have explored these interests in numerous professional enviornments in academia, startups, and competitions. Please reach out if you want to see my CV or talk about anything!
+- Email: shankarchawla9101112 [at] gmail [dot] com
 {style="text-align: justify;"}
