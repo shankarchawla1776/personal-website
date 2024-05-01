@@ -74,4 +74,5 @@ I am a high school sophomore in Phoenix, Arizona and attent Phoenix Country Day 
 
 **Email**: shankarchawla9101112 [at] gmail [dot] com
 
+**Discord**: indefeasible
 {style="text-align: justify;"}

@@ -239,7 +239,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Please feel free to reach out to me!
       # Contact (add or remove contact options as necessary)
       email: shankarchawla9101112 [at] gmail [dot] com
       phone: 602.837.8737
