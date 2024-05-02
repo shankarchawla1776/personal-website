@@ -7,9 +7,10 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Hugging Face
-    url: 'https://huggingface.co/indefeasible'
-    weight: 20
+  - name: Reading List
+   url: uploads/reading_list.pdf
+   weight: 20
+
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
@@ -22,9 +23,9 @@ main:
   - name: Contact
     url: '#contact'
     weight: 30 # -> 60 
+  - name: Hugging Face
+    url: 'https://huggingface.co/indefeasible'
+    weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70

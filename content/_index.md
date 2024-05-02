@@ -239,7 +239,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Please feel free to reach out to me!
+        Join my mailing list. I will send you cool things I find. 
       # Contact (add or remove contact options as necessary)
       email: shankarchawla9101112 [at] gmail [dot] com
       phone: 602.837.8737
