@@ -236,7 +236,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Mailing List
       subtitle:
       text: |-
         Join my mailing list. I will send you cool things I find. 
