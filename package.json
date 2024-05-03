@@ -1,0 +1,16 @@
+{
+  "name": "starter-hugo-academic",
+  "version": "1.0.0",
+  "description": "[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@onedoc/client": "^0.1.32",
+    "@onedoc/react-print": "^0.1.133"
+  }
+}
