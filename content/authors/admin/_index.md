@@ -70,6 +70,8 @@ email: 'shankarchawla9101112 [at] gmail [dot] com'
 highlight_name: true
 ---
 
+I am currently building out this site and plan to add a blog and a more elaborate reading list. Please ignore the residual filler content from the site template. 
+
 I am a high school sophomore in Phoenix, Arizona and attent Phoenix Country Day School. I am currently an intern at the National Center for Adaptive Neurotechnologies. My interestes include neuromuscular biomechanics as well as neural and computational systems. I have explored these interests in numerous professional enviornments in academia, startups, and competitions. Please reach out if you want to see my CV or talk about anything!
 
 **Email**: shankarchawla9101112 [at] gmail [dot] com
