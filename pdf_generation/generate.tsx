@@ -5,8 +5,8 @@ import { readFileSync } from "fs";
 import { compile } from "@onedoc/react-print";
 import { join } from "path";
 
-// const ONEDOC_API_KEY = process.env.ONEDOC_API_KEY; // Replace this with your actual API key
-const ONEDOC_API_KEY = "38fb520f-27ba-4d9b-9e1a-a4a9fc53c6de";
+const ONEDOC_API_KEY = process.env.ONEDOC_API_KEY; // Replace this with your actual API key
+
 
 (async () => {
   try {

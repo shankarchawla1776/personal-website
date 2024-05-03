@@ -8,7 +8,7 @@ export const ReadingListTemplate = ({ papers }) => {
         {papers.map((paper, index) => (
           <li key={index}>
             <h2><a href={paper.url} target="_blank" rel="noopener noreferrer">{paper.title}</a></h2>
-            <p>Author: {paper.author}</p>
+            <p>Author(s): {paper.author}</p>
             <p>Published: {paper.year}</p>
           </li>
         ))}
